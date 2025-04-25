@@ -1,0 +1,121 @@
+{
+  "theme.bar.transparent": true,
+  "theme.bar.buttons.monochrome": false,
+  "theme.bar.menus.buttons.radius": "0.4em",
+  "theme.bar.menus.border.size": "0.13em",
+  "theme.font.weight": 600,
+  "theme.bar.buttons.windowtitle.enableBorder": true,
+  "bar.notifications.hideCountWhenZero": false,
+  "theme.bar.buttons.background_opacity": 100,
+  "wallpaper.image": "/home/linus/Pictures/hyprland_minimalist/wallhaven-lqpv1l_2560x1440.png",
+  "theme.notification.opacity": 90,
+  "theme.bar.menus.menu.bluetooth.label.color": "#00ff8f",
+  "theme.bar.menus.menu.bluetooth.text": "#acd2d7",
+  "theme.bar.menus.menu.bluetooth.icons.active": "#00ff8f",
+  "theme.bar.menus.popover.text": "#00ff8f",
+  "theme.bar.menus.dropdownmenu.text": "#00ff8f",
+  "theme.bar.menus.slider.primary": "#00ff8f",
+  "theme.bar.menus.progressbar.foreground": "#00ff8f",
+  "theme.bar.menus.buttons.default": "#00ff8f",
+  "theme.bar.menus.switch.enabled": "#00ff8f",
+  "theme.bar.menus.icons.active": "#00ff8f",
+  "theme.bar.menus.listitems.active": "#00ff8f",
+  "menus.dashboard.powermenu.avatar.image": "/home/linus/Pictures/OldTux1nobg.png",
+  "theme.bar.menus.menu.dashboard.profile.size": "8.5em",
+  "theme.bar.buttons.modules.cpuTemp.enableBorder": false,
+  "theme.bar.menus.buttons.active": "#a51d2d",
+  "theme.bar.buttons.windowtitle.text": "#ffa348",
+  "theme.bar.buttons.windowtitle.icon": "#b1eae6",
+  "theme.bar.buttons.windowtitle.border": "#b1eae6",
+  "theme.bar.buttons.workspaces.border": "#b4befe",
+  "theme.bar.buttons.workspaces.active": "#b4befd",
+  "theme.font.name": "Azeret Mono",
+  "theme.font.label": "Azeret Mono Semi-Bold Italic",
+  "theme.bar.menus.text": "#ff7800",
+  "theme.font.size": "1.0rem",
+  "menus.dashboard.shortcuts.left.shortcut4.command": "~/.config/rofi/launchers/type-7/launcher.sh",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "LibreWolf",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "librewolf",
+  "menus.dashboard.shortcuts.right.shortcut3.command": "hyprshot -m region",
+  "theme.bar.buttons.modules.hyprsunset.enableBorder": true,
+  "bar.customModules.hyprsunset.offLabel": "Off",
+  "theme.bar.buttons.modules.netstat.enableBorder": false,
+  "bar.customModules.netstat.dynamicIcon": false,
+  "theme.bar.buttons.clock.enableBorder": false,
+  "bar.clock.showTime": true,
+  "menus.clock.time.military": true,
+  "menus.clock.weather.unit": "metric",
+  "menus.clock.weather.location": "Werdau",
+  "menus.clock.weather.key": "3b49d3a666ec46e4b4f131014250504",
+  "theme.bar.buttons.network.enableBorder": false,
+  "bar.workspaces.show_numbered": true,
+  "bar.workspaces.workspaceMask": false,
+  "theme.bar.enableShadow": false,
+  "theme.bar.buttons.modules.weather.enableBorder": false,
+  "menus.power.showLabel": true,
+  "bar.battery.enabled": false,
+  "bar.battery.label": false,
+  "bar.battery.hideLabelWhenFull": false,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "theme.font.style": "italic",
+  "theme.matugen_settings.mode": "dark",
+  "theme.bar.floating": true,
+  "theme.bar.buttons.enableBorders": true,
+  "theme.bar.location": "top",
+  "bar.autoHide": "fullscreen",
+  "theme.bar.menus.enableShadow": false,
+  "menus.media.hideAuthor": false,
+  "theme.matugen_settings.scheme_type": "fruit-salad",
+  "theme.matugen": true,
+  "theme.matugen_settings.variation": "monochrome_2",
+  "theme.matugen_settings.contrast": 0.6
+}

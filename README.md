@@ -1,2 +1,2 @@
 # dotfiles
-My hyprland dotfiles for arch
+My hyprland (and other software) dotfiles for arch
